@@ -1,0 +1,3 @@
+useDynLib(linBilin)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
